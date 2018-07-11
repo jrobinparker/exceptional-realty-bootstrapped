@@ -1,0 +1,12 @@
+[user]
+  user  = 'jrobinparker'
+  name  = 'Jeremy Parker'
+  email = 'jrobinparker@gmail.com'
+[github]
+  user  = 'jrobinparker'
+  email = 'jrobinparker@gmail.com'
+[github "user"]
+  user  = 'jrobinparker'
+  email = 'jrobinparker@gmail.com'
+[push]
+  default = simple
