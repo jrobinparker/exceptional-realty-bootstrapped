@@ -502,3 +502,14 @@ learn open bootstrap-codealong-cb-000
 httpsserver
 httpserver
 git init
+git add .
+git commit -m "Start Bootstrap project"
+git remote add origin https://github.com/jrobinparker/exceptional-realty-bootstrapped.git
+git remote add origin https://github.com/jrobinparker/except
+reload!
+_
+clear
+git remote add origin https://github.com/jrobinparker/exceptional-realty-bootstrapped.gitclear
+clear
+git push -u origin master
+git push -u origin master
